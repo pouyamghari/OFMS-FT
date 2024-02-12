@@ -5,4 +5,4 @@ This repository hosts the code implementation for the paper titled "Budgeted Onl
 - TensorFlow 2.7.0
 
 # Usage
-To run the experiments or utilize the functionalities provided, please run air.py, wec.py, cifar-10.py and mnist.py corresponding to each dataset.
+To run the experiments or utilize the functionalities provided, please `run air.py`, `wec.py`, `cifar-10.py` and `mnist.py` corresponding to each dataset.
